@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=2ul3TxgAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "ytren.ai@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "yingtaoren"
-  google_plus      : "ytren.ai@outlook.com"
+  google_plus      : 
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
