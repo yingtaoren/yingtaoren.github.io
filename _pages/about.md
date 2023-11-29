@@ -19,5 +19,5 @@ I obtained my B.A. in Industrial Engineering from Beijing Jiaotong University in
 ***News!***
 * Nov 2023: I am honored to join the [Human-centric Artificial Intelligence Centre](https://www.uts.edu.au/research/human-centric-artificial-intelligence-centre) as a PhD student.
 * May 2023: I am so honored to be awarded the UTS President's Scholarship.
-* Oct 2022: One paper titled ['A New Random Forest Ensemble of Intuitionistic Fuzzy Decision Trees'](https://ieeexplore.ieee.org/document/9925223/authors#authors) accepted  by IEEE Transactions on Fuzzy Systems
+* Oct 2022: One paper titled ['A New Random Forest Ensemble of Intuitionistic Fuzzy Decision Trees']([https://ieeexplore.ieee.org/document/9925223/authors#authors](https://ieeexplore.ieee.org/document/9925223) accepted  by IEEE Transactions on Fuzzy Systems
 
