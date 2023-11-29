@@ -16,8 +16,7 @@ My background and history
 I obtained my B.A. in Industrial Engineering from Beijing Jiaotong University in 2019 and my M.A. in Industrial Engineering in 2022. After that, I joined Honor company(former Huawei), Ltd. as a machine learning engineer, responsible for the recommendation system.
 
 
-News!
-======
+***News!***
 * Nov 2023: I am honored to join the [Human-centric Artificial Intelligence Centre](https://www.uts.edu.au/research/human-centric-artificial-intelligence-centre) as a PhD student.
 * May 2023: I am so honored to be awarded the [UTS President's Scholarship](https://www.uts.edu.au/scholarship/uts-presidents-scholarship#:~:text=The%20UTS%20President's%20scholarship%20(UTSP,not%20transferable%20to%20another%20institution.).
 * Oct 2022: One paper titled ['A New Random Forest Ensemble of Intuitionistic Fuzzy Decision Trees'](https://ieeexplore.ieee.org/document/9925223/authors#authors) accepted  by IEEE Transactions on Fuzzy Systems
