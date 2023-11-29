@@ -13,7 +13,7 @@ Hi! I’m Yingtao, a Phd candidate at the University technology of Sydney in the
 
 My background and history
 ======
-I obtained my B.A. in Industrial Engineering from Beijing Jiaotong University in 2019 and my M.A. in Industrial Engineering in 2022. After that, I joined Honor company(former Huawei), Ltd. as a machine learning engineer, responsible for the recommendation system.
+I obtained my B.A. in Industrial Engineering from Beijing Jiaotong University in 2019 and my M.A. in Industrial Engineering in 2022. After that, I joined Honor company(former Huawei) as a machine learning engineer, responsible for the recommendation system.
 
 
 ***News!***
