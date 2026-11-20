@@ -39,3 +39,105 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* The navigation and author links remain managed by AcademicPages. */
+$profile-ink: #213733;
+$profile-accent: #29645b;
+$profile-rule: #d8dfda;
+$profile-serif: Georgia, "Times New Roman", serif;
+
+.masthead {
+  background: #f8faf7;
+  border-top: 3px solid $profile-accent;
+  border-bottom-color: $profile-rule;
+}
+.masthead__inner-wrap {
+  max-width: 1160px;
+  padding: .68em 1.2em;
+}
+.greedy-nav {
+  background: transparent;
+  min-width: 0;
+}
+.greedy-nav .visible-links a { color: $profile-ink; }
+.masthead__menu-item--lg a {
+  font-family: $profile-serif;
+  font-size: 1.24em;
+  letter-spacing: -.035em;
+}
+
+#main:has(.home-news), #main:has(.pub-list) {
+  max-width: 1160px;
+  padding: 0 1.2em;
+  color: $profile-ink;
+  .page__title, .page__content h2 {
+    font-family: $profile-serif;
+    font-weight: 600;
+    letter-spacing: -.035em;
+    line-height: 1.12;
+  }
+  .page__title { margin: 0 0 .55em; font-size: 2.25em; }
+  .page__content {
+    line-height: 1.65;
+    p { margin: 0 0 .95em; }
+    h2 { margin: 1.2em 0 .3em; border: 0; padding: 0; font-size: 1.7em; }
+    a { color: $profile-accent; text-underline-offset: .15em; }
+  }
+  .pub-list h3 { margin-top: 1.4em; }
+  .pub-list li { padding: .75em 0; }
+  .pub-list .pub-title { color: $profile-accent; }
+}
+
+.page__content ul.home-news {
+  list-style: none;
+  padding: 0;
+  margin: .6em 0 0;
+  li {
+    display: grid;
+    grid-template-columns: 5.4em 1fr;
+    gap: .65em;
+    padding: .75em 0;
+    margin: 0;
+    border-top: 1px solid $profile-rule;
+    font-size: .93em;
+    line-height: 1.5;
+  }
+  time {
+    color: $profile-accent;
+    font-variant-numeric: tabular-nums;
+    font-size: .9em;
+    font-weight: 650;
+    padding-top: .12em;
+    white-space: nowrap;
+  }
+}
+
+@media screen and (min-width: 925px) {
+  #main:has(.home-news), #main:has(.pub-list) {
+    display: grid;
+    grid-template-columns: 218px minmax(0, 1fr);
+    column-gap: 2.4em;
+    align-items: start;
+    margin-top: 2.25em;
+    &::before, &::after { display: none; }
+    .sidebar, .page, .archive { float: none; width: auto; margin: 0; padding: 0; }
+    .sidebar { padding-right: 1.5em; border-right: 1px solid $profile-rule; }
+    .author__avatar img {
+      width: 146px;
+      height: 146px;
+      object-fit: cover;
+      object-position: center 36%;
+      border: 1px solid $profile-rule;
+      padding: 3px;
+    }
+    .author__name { margin: .7em 0 .55em; }
+    .author__urls li { margin: .3em 0; }
+  }
+}
+@media screen and (max-width: 924px) {
+  #main:has(.home-news), #main:has(.pub-list) {
+    margin-top: 1.25em;
+    .sidebar { padding-bottom: 1em; border-bottom: 1px solid $profile-rule; }
+    .page__title { font-size: 1.9em; }
+  }
+}
