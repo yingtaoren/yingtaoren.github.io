@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate in the School of Computer Science at the University of Technology Sydney (UTS), advised by [Professor Chin-Teng Lin](https://profiles.uts.edu.au/Chin-Teng.Lin).
+I'm a PhD candidate in the School of Computer Science at the University of Technology Sydney (UTS), advised by Professor [Chin-Teng Lin](https://profiles.uts.edu.au/Chin-Teng.Lin).
 
-My research interests include **LLM post-training**, **retrieval-augmented generation (RAG)**, and **mechanistic interpretability**. I'm interested in how training shapes a model’s behavior, how it uses retrieved evidence, and what its internal computations can tell us about its answers.
+My research interests include **LLM post-training**, **retrieval-augmented generation (RAG)**, and **mechanistic interpretability**. I'm interested in how training shapes a model’s behaviour, how it uses retrieved evidence, and what its internal computations can tell us about its answers.
 
-I earned my B.A. in Industrial Engineering from Beijing Jiaotong University in 2019 and my M.A. in Industrial Engineering in 2022. Before starting my PhD, I worked on recommendation systems as a machine learning engineer at Honor.
+I earned my B.A. and M.A. in Industrial Engineering from Beijing Jiaotong University(BJTU). Before starting my PhD, I worked on recommendation systems as a machine learning engineer at Honor Device Company.
 
 If you'd like to discuss my work, feel free to email me at [ytren.ai@outlook.com](mailto:ytren.ai@outlook.com).
 
@@ -21,7 +21,6 @@ If you'd like to discuss my work, feel free to email me at [ytren.ai@outlook.com
 <ul class="home-news">
   <li><time datetime="2026-10">Oct 2026</time><span>Our paper <a href="https://aclanthology.org/2026.findings-emnlp.937/">TRIO</a>, on training three agents to refine queries, judge retrieval results, and generate answers, appeared in <em>Findings of EMNLP 2026</em>.</span></li>
   <li><time datetime="2026-07">Jul 2026</time><span><a href="https://dl.acm.org/doi/abs/10.1145/3805712.3809904">When Context Bites</a>, our paper on detecting poisoned documents in retrieval-augmented generation, appeared in the <em>SIGIR 2026</em> proceedings.</span></li>
-  <li><time datetime="2026-07">Jul 2026</time><span>We shared <a href="https://arxiv.org/abs/2609.22088">a preprint on time-adaptive brain–computer interfaces</a> on arXiv. It studies how an EEG decoder can decide when it has enough evidence to act.</span></li>
   <li><time datetime="2026-07">Jul 2026</time><span>Our <a href="https://aclanthology.org/2026.findings-acl.856/">CARE paper</a> on training multi-step RAG systems to handle noisy or fabricated documents appeared in <em>Findings of ACL 2026</em>.</span></li>
   <li><time datetime="2026-04">Apr 2026</time><span><em>IEEE Transactions on Fuzzy Systems</em> published <a href="https://ieeexplore.ieee.org/abstract/document/11482703/">iFuzz-Meta</a>, our framework for combining top-down and bottom-up knowledge in fuzzy learning.</span></li>
   <li><time datetime="2025-07">Jul 2025</time><span>Our <a href="https://ieeexplore.ieee.org/abstract/document/11152216/">paper on selecting features for individual TSK fuzzy rules</a> appeared in the <em>FUZZ-IEEE 2025</em> proceedings.</span></li>
