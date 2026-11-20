@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my website! I’m Yingtao, a PhD candidate at the University of Technology Sydney(UTS) in the School of Computer Science, under the guidance of Professor [CT Lin](https://profiles.uts.edu.au/Chin-Teng.Lin). I enjoy playing basketball and am a big fan of the Golden State Warriors. I also love to spend time daydreaming by the sea. My research interests include **LLM post-training**, **retrieval-augmented generation (RAG)**, and **mechanistic interpretability**. I'm interested in how training shapes a model’s behaviour, how it uses retrieved evidence, and what its internal computations can tell us about its answers.
- If you are interested in my research work, feel free to contact me anytime *(ytren.ai@outlook.com)*. I would be delighted to have a cup of my favourite black tea with you!
+Hi, welcome to my website! I’m Yingtao, a PhD candidate at the University of Technology Sydney(UTS) in the School of Computer Science, under the guidance of Professor [CT Lin](https://profiles.uts.edu.au/Chin-Teng.Lin). I enjoy playing basketball and am a big fan of the Golden State Warriors. I also love to spend time daydreaming by the sea. 
 
 I earned my B.A. and M.A. in Industrial Engineering from Beijing Jiaotong University(BJTU). Before starting my PhD, I worked on recommendation systems as a machine learning engineer at Honor Device Company.
 
-If you'd like to discuss my work, feel free to email me at [ytren.ai@outlook.com](mailto:ytren.ai@outlook.com).
+My research interests include **LLM post-training**, **retrieval-augmented generation (RAG)**, and **mechanistic interpretability**. I'm interested in how training shapes a model’s behaviour, how it uses retrieved evidence, and what its internal computations can tell us about its answers.
+If you are interested in my research work, feel free to contact me anytime. I would be delighted to have a cup of my favourite black tea with you!
+
+
 
 ## News
 
